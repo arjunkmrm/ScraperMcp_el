@@ -12,6 +12,7 @@
 <div align="center">
 
 
+[![smithery badge](https://smithery.ai/badge/@arjunkmrm/scrapermcp_el)](https://smithery.ai/server/@arjunkmrm/scrapermcp_el)
 [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 <br/>
@@ -20,6 +21,13 @@
 </div>
 
 ---
+### Installing via Smithery
+
+To install scrapermcp_el automatically via [Smithery](https://smithery.ai/server/@arjunkmrm/scrapermcp_el):
+
+```bash
+npx -y @smithery/cli install @arjunkmrm/scrapermcp_el
+```
 
 ## 📖 Overview
 
