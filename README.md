@@ -13,6 +13,7 @@
 
 
 [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![smithery badge](https://smithery.ai/badge/@arjunkmrm/scrapermcp_el)](https://smithery.ai/server/@arjunkmrm/scrapermcp_el)
 
 <br/>
 
@@ -178,3 +179,4 @@ MCP (Multi-Client Protocol) handles all the tedious steps for you:
 | **Thordata global proxy network intelligently bypasses anti-bot detection** | Ensures access availability and identity anonymity |
 | **One-click data acquisition solution**                           | Easily handles complex single-page applications |
 | **Multi-format output support (MarkDown/HTML/Links)**             | Precisely matches your data requirements |
+
